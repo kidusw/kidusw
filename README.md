@@ -1,5 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusw&theme=dark&show_icons=true)
 
 ### Hi there 👋, my name is kidus workneh
 #### I am an aspiring computer scientist and machine learning engineer
