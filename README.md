@@ -9,6 +9,8 @@ Skills:
 ✅ SQL
 ✅ Pytorch 
 ✅ Tensorflow
+✅ fastapi
+✅ Nodejs / express / MEARN stack
 
 
 
