@@ -10,7 +10,7 @@ Skills:
 ✅ Pytorch 
 ✅ Tensorflow
 ✅ fastapi
-✅ Nodejs / express / MEARN stack
+✅ Nodejs / express / MERN stack
 
 
 
