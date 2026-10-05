@@ -2,7 +2,7 @@
 
 **Software Engineer** based in Addis Ababa, Ethiopia — building scalable backends, AI-driven systems, and real-time applications.
 
-I work across multiple project including but not limited to , architecting APIs, design RAG pipelines, and manage production infrastructure. I enjoy the intersection of backend engineering and applied machine learning.
+I work across multiple projects including but not limited to , architecting APIs, design RAG pipelines, and manage production infrastructure. I enjoy the intersection of backend engineering and applied machine learning.
 
 ---
 
